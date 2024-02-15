@@ -1,0 +1,6 @@
+# All supported devices
+# Usage: ${devices[@]}
+readonly devices=(
+  husky
+  shiba
+)
